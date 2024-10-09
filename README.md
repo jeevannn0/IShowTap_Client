@@ -1,4 +1,4 @@
-# I Show Tap  
+# I Show Tap - Client
 [Link to Bot](https://t.me/IShowTap_Bot)
 
 This project is a Telegram Web App designed to allow users to tap and increment their coin balance seamlessly. Built using React, Supabase, and GraphQL, users can easily interact with the app to increase their coin balance, which is securely stored and retrieved from a backend server.
