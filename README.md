@@ -26,19 +26,22 @@ This project is a Telegram Web App designed to allow users to tap and increment 
 git clone [repository-url](https://github.com/jeevannn0/IShowTap_Client.git)
 ```
 
-2. Navigate to the project directory:
-
-```bash
-cd CO3_client
-```
-
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. Run the Graph Sql 
+3. Run the Graph Sql 
+
+
+### Running Local
+
+1. Start the server:
+
+```bash
+npm run dev
+```
 
 
 
