@@ -3,7 +3,7 @@ import { gql, useMutation, useQuery } from '@apollo/client'; // GraphQL query an
 import { Player } from '@lottiefiles/react-lottie-player';
 import { useEffect, useRef, useState } from 'react'; // React hooks
 import animationData from './images/coin.json';
-import image from './lottie/tapcoin.json'; // Animation for tap button
+import image from './images/tapcoin.json'; // Animation for tap button
 import { dailyCipher, dailyCombo, dailyReward, } from './images';
 
 
