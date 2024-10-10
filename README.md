@@ -24,7 +24,7 @@ This project is a Telegram Web App designed to allow users to tap and increment 
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/jeevannn0/IShowTap_Client.git)
+git clone https://github.com/jeevannn0/IShowTap_Client.git
 ```
 
 2. Install dependencies:
